@@ -1,4 +1,4 @@
-package com.example.priya.sensorappdemo;
+package com.example.priya.sensorappdemo.ui;
 
 import android.content.Context;
 import android.graphics.Canvas;
